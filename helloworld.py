@@ -1,3 +1,0 @@
-#redo
-print('hello')
-
